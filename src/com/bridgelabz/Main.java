@@ -100,7 +100,7 @@ public class Main {
         Simply passing the argument value according to the parameter defined in the constructor.
          */
         Main details = new Main("Raju", "Puli", "Karimnagar", "Hyderabad",
-                "Telangana", "rajupuli15@gmail.com", 505421, 9676543264);
+                "Telangana", "rajupuli15@gmail.com", 505421, 9676543);
         System.out.println("The following contact details is mentioned below : \n");
         System.out.println("First Name : " + details.getFirstName());
         System.out.println("Last Name  : " + details.getLastName());
